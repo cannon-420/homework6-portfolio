@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: #757476;
+}
+h1{
+	text-align: center;
+	
+}
+p2{
+		text-align: end;
+	color: black;
+	}
+
+p1{
+	text-align: center; 
+	color: #ffa88d;
+	font-style: italic;
+	text-decoration-line: underline;
+}
